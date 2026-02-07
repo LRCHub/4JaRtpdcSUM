@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "23:59",
+  "base_artist": "CARRY LOOSE",
+  "createdAt": "2026-02-07T15:30:47.920590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "23:59",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/01_23_59_majiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "23:59",
+      "artist": "McBusted",
+      "has_synced": true,
+      "path": "select/02_23_59_McBusted.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "23:59 End of the World",
+      "artist": "Carter the Unstoppable Sex Machine",
+      "has_synced": true,
+      "path": "select/03_23_59_End_of_the_World_Carter_the_Unstoppable_Sex_Machine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "23:59 End of the World",
+      "artist": "Carter USM",
+      "has_synced": true,
+      "path": "select/04_23_59_End_of_the_World_Carter_USM.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "One minute later (23:59)",
+      "artist": "Grizzly",
+      "has_synced": true,
+      "path": "select/05_One_minute_later_(23_59)_Grizzly.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Day1-23-59-夜中",
+      "artist": "Hello,Sound!!",
+      "has_synced": true,
+      "path": "select/06_Day1-23-59-夜中_Hello,Sound!!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "23:59",
+      "artist": "CARRY LOOSE",
+      "has_synced": false,
+      "path": "select/pl_01_23_59_CARRY_LOOSE.txt"
+    }
+  ]
+}
